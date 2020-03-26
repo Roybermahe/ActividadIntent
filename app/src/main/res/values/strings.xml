@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActividadIntent</string>
+    <string name="header">HEADER</string>
+    <string name="message">Message</string>
+</resources>
